@@ -1,6 +1,13 @@
-# Newsapi Test
+# Heatmap Test
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Key features
+
+- useContext
+- Date comparison logic
+- A fun rendering of a bunch of boxes
+- No tests
 
 ## Getting Started
 
